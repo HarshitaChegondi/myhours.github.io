@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/myhours.github.io/static/css/main.c2bdb81e.css",
-    "main.js": "/myhours.github.io/static/js/main.5d0e79f6.js",
+    "main.js": "/myhours.github.io/static/js/main.e1372b92.js",
     "index.html": "/myhours.github.io/index.html",
     "main.c2bdb81e.css.map": "/myhours.github.io/static/css/main.c2bdb81e.css.map",
-    "main.5d0e79f6.js.map": "/myhours.github.io/static/js/main.5d0e79f6.js.map"
+    "main.e1372b92.js.map": "/myhours.github.io/static/js/main.e1372b92.js.map"
   },
   "entrypoints": [
     "static/css/main.c2bdb81e.css",
-    "static/js/main.5d0e79f6.js"
+    "static/js/main.e1372b92.js"
   ]
 }
